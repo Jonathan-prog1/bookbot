@@ -1,3 +1,4 @@
+#!/usr/bin/python3
 from stats import get_num_words,get_letters_count,get_sorted_char_list
 import sys
 def main():
