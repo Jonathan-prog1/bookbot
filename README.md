@@ -2,7 +2,7 @@
 
 BookBot is my first [Boot.dev](https://www.boot.dev) project!
 
-this project lets you know how many words that book has and how many letters that book has.
+this project lets you know how many words that a book has and how many letters that book has.
 
 ## To use it:
 
